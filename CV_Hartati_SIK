@@ -1,0 +1,42 @@
+<!DOCTIPE HTML>
+<html>
+	<head>
+		<title> CV </title>
+	<head>
+	<body bgcolor="beige" text="black"> </body>
+		<h1 align="center"> Curriculum Vitae </h1>
+		<hr/>
+		<h2>Biodata Pribadi</h2>
+		<ol>
+			<li>Nama					: Hartati</li>
+			<li>Tempat, Tanggal Lahir	: Jakarta, 13 April 2000</li>
+			<li>Jenis Kelamin			: Perempuan</li>
+			<li>Agama					: Islam</li>
+			<li>Pekerjaan				: Mahasiswa</li>
+			<li>Alamat					: Jl. Lapangan Tenis Srengseng, Kembangan, Jakarta Barat, DKI Jakarta</li>
+			<li>Nomor Telepon			: 089514349520</li>
+			<li>Email					: hartati@upi.edu</li>
+		</ol>	
+		<h2>Riwayat Pendidikan</h2>
+		<ul>
+			<li>2019 - Sekarang			: S1 Sistem Informasi Kelautan - Universitas Pendidikan Indonesia</li>
+			<li>2015 - 2018				: SMA N 112 Jakarta</li>
+			<li>2012 - 2015				: SMP N 75 Jakarta</li>
+			<li>2006 - 2012				: SDN Kebon Jeruk 01</li>
+		</ul>
+		<h2>Keorganisasian</h2>
+		<ol>
+			<li>KPU UPI 2020_DPPU (Dewan Pengawas Pemilihan Umum)</li>
+			<li>MABIM SIK 2020_Divisi Mentor</li>
+			<li>HIMATASKA_Sekretaris Departemen PSDM</li>
+
+		</ol>
+		<h3>Info Lanjut</h3>
+		<ul>
+			<li> <a href="https://ibb.co/ySbv3JC/"> Foto Hartati</a> </li>
+			<li> <a href="https://www.instagram.com/hartatii_/"> Instagram Pribadi </a> </li>
+		<br/>
+		
+		
+	</body>	
+</html>
